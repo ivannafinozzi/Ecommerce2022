@@ -188,3 +188,15 @@ a.custom-card:hover {
 .checked {
   color: orange;
 }
+
+.LoginLogo {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  align-content: center;
+}
+
+.button {
+  margin-left: 40%;
+  margin-right: 40%;
+}
